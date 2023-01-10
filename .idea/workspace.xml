@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37b06f71-1a34-4078-8e90-40aa75703927" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-PF-Jan-Java-2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Lab/EX01_StudentInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Lab/EX02_Passed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Lab/EX03_PassedOrFailed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Lab/EX04_BackIn30Minutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Lab/EX05_MonthPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Lab/EX06_ForeignLanguages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Lab/EX07_TheatrePromotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Lab/EX08_DivisibleBy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Lab/EX09_SumOfOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Lab/EX10_MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Lab/EX11_MultiplicationTable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Lab/EX12_EvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Lab/EX13_RefactorSumOfOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K6cMsHD9WQXy9X4o0AsKMCIYB6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.EX13_RefactorSumOfOddNumbers">
+    <configuration name="EX09_SumOfOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C01_BasicSyntaxConditionalStatementsAndLoops.Lab.EX09_SumOfOddNumbers" />
+      <module name="SoftUni-PF-Jan-Java-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C01_BasicSyntaxConditionalStatementsAndLoops.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX10_MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C01_BasicSyntaxConditionalStatementsAndLoops.Lab.EX10_MultiplicationTable" />
+      <module name="SoftUni-PF-Jan-Java-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C01_BasicSyntaxConditionalStatementsAndLoops.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX11_MultiplicationTable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C01_BasicSyntaxConditionalStatementsAndLoops.Lab.EX11_MultiplicationTable2" />
+      <module name="SoftUni-PF-Jan-Java-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C01_BasicSyntaxConditionalStatementsAndLoops.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX12_EvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C01_BasicSyntaxConditionalStatementsAndLoops.Lab.EX12_EvenNumber" />
+      <module name="SoftUni-PF-Jan-Java-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C01_BasicSyntaxConditionalStatementsAndLoops.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX13_RefactorSumOfOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C01_BasicSyntaxConditionalStatementsAndLoops.Lab.EX13_RefactorSumOfOddNumbers" />
+      <module name="SoftUni-PF-Jan-Java-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C01_BasicSyntaxConditionalStatementsAndLoops.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EX13_RefactorSumOfOddNumbers" />
+        <item itemvalue="Application.EX12_EvenNumber" />
+        <item itemvalue="Application.EX11_MultiplicationTable2" />
+        <item itemvalue="Application.EX10_MultiplicationTable" />
+        <item itemvalue="Application.EX09_SumOfOddNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37b06f71-1a34-4078-8e90-40aa75703927" name="Changes" comment="" />
+      <created>1673298428281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673298428281</updated>
+      <workItem from="1673298429647" duration="1355000" />
+      <workItem from="1673373601957" duration="1458000" />
+      <workItem from="1673384295730" duration="3821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Lab/EX13_RefactorSumOfOddNumbers.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
