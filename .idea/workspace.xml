@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b06f71-1a34-4078-8e90-40aa75703927" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Exercise/EX01_Ages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Exercise/EX02_Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Exercise/EX03_Vacation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Exercise/EX04_PrintAndSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Exercise/EX05_Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Exercise/EX06_StrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Exercise/EX07_VendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Exercise/EX08_TriangleOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Exercise/EX09_Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Exercise/EX10_PadawanEquipment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Exercise/EX11_RageExpenses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Lab/EX01_ConvertMetersToKilometers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Lab/EX02_PoundsToDollars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,16 +46,17 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EX11_RageExpenses">
-    <configuration name="EX07_VendingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C01_BasicSyntaxConditionalStatementsAndLoops.Exercise.EX07_VendingMachine" />
+  <component name="RunManager" selected="Application.EX02_PoundsToDollars">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C01_BasicSyntaxConditionalStatementsAndLoops.Exercise.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +64,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX08_TriangleOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C01_BasicSyntaxConditionalStatementsAndLoops.Exercise.EX08_TriangleOfNumbers" />
+    <configuration name="EX01_ConvertMetersToKilometers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C02_DataTypesAndVariables.Lab.EX01_ConvertMetersToKilometers" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C01_BasicSyntaxConditionalStatementsAndLoops.Exercise.*" />
+          <option name="PATTERN" value="C02_DataTypesAndVariables.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX02_PoundsToDollars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C02_DataTypesAndVariables.Lab.EX02_PoundsToDollars" />
+      <module name="SoftUni-PF-Jan-Java-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C02_DataTypesAndVariables.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,19 +92,6 @@
     </configuration>
     <configuration name="EX09_Orders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C01_BasicSyntaxConditionalStatementsAndLoops.Exercise.EX09_Orders" />
-      <module name="SoftUni-PF-Jan-Java-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C01_BasicSyntaxConditionalStatementsAndLoops.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX10_PadawanEquipment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C01_BasicSyntaxConditionalStatementsAndLoops.Exercise.EX10_PadawanEquipment" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EX11_RageExpenses" />
-        <item itemvalue="Application.EX10_PadawanEquipment" />
+        <item itemvalue="Application.EX02_PoundsToDollars" />
+        <item itemvalue="Application.EX01_ConvertMetersToKilometers" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.EX09_Orders" />
-        <item itemvalue="Application.EX08_TriangleOfNumbers" />
-        <item itemvalue="Application.EX07_VendingMachine" />
+        <item itemvalue="Application.EX11_RageExpenses" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +137,13 @@
       <workItem from="1673298429647" duration="1355000" />
       <workItem from="1673373601957" duration="1458000" />
       <workItem from="1673384295730" duration="4087000" />
-      <workItem from="1673681241149" duration="19989000" />
+      <workItem from="1673681241149" duration="20254000" />
+      <workItem from="1673713345284" duration="48000" />
+      <workItem from="1673713404794" duration="32000" />
+      <workItem from="1673713447311" duration="185000" />
+      <workItem from="1673713645851" duration="7000" />
+      <workItem from="1674062141933" duration="622000" />
+      <workItem from="1674062782229" duration="1203000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1673388289465</created>
@@ -154,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673388289465</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1673713100637</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673713100637</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
