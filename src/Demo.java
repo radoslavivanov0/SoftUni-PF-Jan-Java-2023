@@ -5,6 +5,11 @@ public class Demo {
 //            counter++;
 //            System.out.println(counter);
 //        }
+        float heightInMeters = 1.74f;
+        double maxHeight = heightInMeters;
 
+        double size = 3.14;
+        int intSize = (int) size;
+        System.out.println(maxHeight);
     }
 }

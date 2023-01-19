@@ -5,10 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b06f71-1a34-4078-8e90-40aa75703927" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Lab/EX01_ConvertMetersToKilometers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Lab/EX02_PoundsToDollars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/MoreExercise/EX01_SortNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/MoreExercise/EX02_EnglishNameOfTheLastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/MoreExercise/EX03_GamingStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/MoreExercise/EX04_ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/MoreExercise/EX05_Messages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Exercise/EX01_IntegerOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Exercise/EX02_SumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Exercise/EX03_Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Exercise/EX04_SumOfChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Exercise/EX05_PrintPartOfASCIITable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Exercise/EX06_TriplesOfLatinLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Exercise/EX07_WaterOverflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Exercise/EX08_BeerKegs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Exercise/EX09_SpiceMustFlow_Optional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Lab/EX03_ExactSumOfRealNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Lab/EX04_TownInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Lab/EX05_ConcatNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Lab/EX06_CharsToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Lab/EX07_ReversedChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Lab/EX08_LowerOrUpper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Lab/EX09_CenturiesToMinutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Lab/EX10_SpecialNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Lab/EX11_RefactorVolumeOfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/Lab/EX12_RefactorSpecialNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +73,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EX02_PoundsToDollars">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
+  <component name="RunManager" selected="Application.EX08_BeerKegs">
+    <configuration name="EX04_SumOfChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C02_DataTypesAndVariables.Exercise.EX04_SumOfChars" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="C02_DataTypesAndVariables.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX01_ConvertMetersToKilometers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C02_DataTypesAndVariables.Lab.EX01_ConvertMetersToKilometers" />
+    <configuration name="EX05_PrintPartOfASCIITable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C02_DataTypesAndVariables.Exercise.EX05_PrintPartOfASCIITable" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C02_DataTypesAndVariables.Lab.*" />
+          <option name="PATTERN" value="C02_DataTypesAndVariables.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX02_PoundsToDollars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C02_DataTypesAndVariables.Lab.EX02_PoundsToDollars" />
+    <configuration name="EX06_TriplesOfLatinLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C02_DataTypesAndVariables.Exercise.EX06_TriplesOfLatinLetters" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C02_DataTypesAndVariables.Lab.*" />
+          <option name="PATTERN" value="C02_DataTypesAndVariables.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX09_Orders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C01_BasicSyntaxConditionalStatementsAndLoops.Exercise.EX09_Orders" />
+    <configuration name="EX07_WaterOverflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C02_DataTypesAndVariables.Exercise.EX07_WaterOverflow" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C01_BasicSyntaxConditionalStatementsAndLoops.Exercise.*" />
+          <option name="PATTERN" value="C02_DataTypesAndVariables.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX11_RageExpenses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C01_BasicSyntaxConditionalStatementsAndLoops.Exercise.EX11_RageExpenses" />
+    <configuration name="EX08_BeerKegs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C02_DataTypesAndVariables.Exercise.EX08_BeerKegs" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C01_BasicSyntaxConditionalStatementsAndLoops.Exercise.*" />
+          <option name="PATTERN" value="C02_DataTypesAndVariables.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EX02_PoundsToDollars" />
-        <item itemvalue="Application.EX01_ConvertMetersToKilometers" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.EX09_Orders" />
-        <item itemvalue="Application.EX11_RageExpenses" />
+        <item itemvalue="Application.EX08_BeerKegs" />
+        <item itemvalue="Application.EX07_WaterOverflow" />
+        <item itemvalue="Application.EX06_TriplesOfLatinLetters" />
+        <item itemvalue="Application.EX05_PrintPartOfASCIITable" />
+        <item itemvalue="Application.EX04_SumOfChars" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +166,8 @@
       <workItem from="1673713447311" duration="185000" />
       <workItem from="1673713645851" duration="7000" />
       <workItem from="1674062141933" duration="622000" />
-      <workItem from="1674062782229" duration="1203000" />
+      <workItem from="1674062782229" duration="15164000" />
+      <workItem from="1674111289555" duration="8078000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1673388289465</created>
@@ -159,11 +183,54 @@
       <option name="project" value="LOCAL" />
       <updated>1673713100637</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1674063996789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674063996789</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="541cf80f-5d18-4a7f-876c-1dc781f86aa8">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/rados/IdeaProjects/SoftUni-PF-Jan-Java-2023/src/C02_DataTypesAndVariables" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="541cf80f-5d18-4a7f-876c-1dc781f86aa8" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
@@ -211,6 +278,31 @@
           <url>file://$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/Exercise/EX10_PadawanEquipment.java</url>
           <line>23</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/MoreExercise/EX03_GamingStore.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C01_BasicSyntaxConditionalStatementsAndLoops/MoreExercise/EX03_GamingStore.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C02_DataTypesAndVariables/Exercise/EX04_SumOfChars.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C02_DataTypesAndVariables/Exercise/EX05_PrintPartOfASCIITable.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C02_DataTypesAndVariables/Exercise/EX07_WaterOverflow.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

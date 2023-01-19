@@ -8,6 +8,14 @@ public class Main {
 //        for (int position = 0; position <= name.length() - 1 ; position++) {
 //
 //        }
-        System.out.println(5793 % 1000);
+        char symbol = 'a';
+        System.out.printf("The code of '%c' is: %d%n", symbol, (int) symbol);
+        symbol = 'b';
+        System.out.printf("The code of '%c' is: %d%n", symbol, (int) symbol);
+        symbol = 'A';
+        System.out.printf("The code of '%c' is: %d%n", symbol, (int) symbol);
+        symbol = 'щ';  // Cyrillic letter 'sht'
+        System.out.printf("The code of '%c' is: %d%n", symbol, (int) symbol);
+
     }
 }
