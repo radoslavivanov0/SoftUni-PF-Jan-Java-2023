@@ -5,12 +5,12 @@ import java.util.Scanner;
 public class EX04_ReverseArrayOfStrings {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String[] elements = scanner.nextLine().split(" ");
-        for (int i = 0; i < elements.length / 2; i++) {
-            String oldElement = elements[i];
-            elements[i] = elements[elements.length - 1 - i];
-            elements[elements.length - 1 - i] = oldElement;
+        String[] inputArr = scanner.nextLine().split(" ");
+        for (int i = 0; i < inputArr.length / 2; i++) {
+            String oldElement = inputArr[i];
+            inputArr[i] = inputArr[inputArr.length - 1 - i];
+            inputArr[inputArr.length - 1 - i] = oldElement;
         }
-        System.out.println(String.join(" ", elements));
+        System.out.println(String.join(" ", inputArr));
     }
 }

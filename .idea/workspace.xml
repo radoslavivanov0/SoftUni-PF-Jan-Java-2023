@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b06f71-1a34-4078-8e90-40aa75703927" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/MoreExercise/EX01_DataTypeFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C02_DataTypesAndVariables/MoreExercise/EX02_FromLefTToTheRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/Lab/EX01_DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/Lab/EX02_PrintNumbersInReverseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/Lab/EX04_ReverseArrayOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/Lab/EX03_SumEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/Lab/EX05_EvenAndOddSubtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/Lab/EX06_EqualArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/Lab/EX07_CondenseArrayToNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C03_Arrays/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C03_Arrays/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C03_Arrays/Lab/EX04_ReverseArrayOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C03_Arrays/Lab/EX04_ReverseArrayOfStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,35 +56,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EX02_PrintNumbersInReverseOrder">
+  <component name="RunManager" selected="Application.EX05_EvenAndOddSubtraction">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C03_Arrays.Demo" />
-      <module name="SoftUni-PF-Jan-Java-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C03_Arrays.Lab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX01_DataTypeFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C02_DataTypesAndVariables.MoreExercise.EX01_DataTypeFinder" />
-      <module name="SoftUni-PF-Jan-Java-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C02_DataTypesAndVariables.MoreExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX01_DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C03_Arrays.Lab.EX01_DayOfWeek" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
@@ -109,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EX03_SumEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C03_Arrays.Lab.EX03_SumEvenNumbers" />
+      <module name="SoftUni-PF-Jan-Java-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C03_Arrays.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EX04_ReverseArrayOfStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C03_Arrays.Lab.EX04_ReverseArrayOfStrings" />
       <module name="SoftUni-PF-Jan-Java-2023" />
@@ -122,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EX05_EvenAndOddSubtraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C03_Arrays.Lab.EX05_EvenAndOddSubtraction" />
+      <module name="SoftUni-PF-Jan-Java-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C03_Arrays.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EX02_PrintNumbersInReverseOrder" />
+        <item itemvalue="Application.EX05_EvenAndOddSubtraction" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.EX01_DayOfWeek" />
         <item itemvalue="Application.EX04_ReverseArrayOfStrings" />
-        <item itemvalue="Application.EX01_DataTypeFinder" />
+        <item itemvalue="Application.EX03_SumEvenNumbers" />
+        <item itemvalue="Application.EX02_PrintNumbersInReverseOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +161,7 @@
       <workItem from="1674544673025" duration="2367000" />
       <workItem from="1674581997772" duration="1780000" />
       <workItem from="1674737277560" duration="276000" />
-      <workItem from="1674746157558" duration="4448000" />
+      <workItem from="1674746157558" duration="7288000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1673388289465</created>
@@ -191,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674132299343</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1674750689153</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674750689153</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,11 +311,6 @@
           <url>file://$PROJECT_DIR$/src/C02_DataTypesAndVariables/Exercise/EX07_WaterOverflow.java</url>
           <line>10</line>
           <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/C03_Arrays/Lab/EX04_ReverseArrayOfStrings.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

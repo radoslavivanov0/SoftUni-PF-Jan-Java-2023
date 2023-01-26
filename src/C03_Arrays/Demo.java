@@ -22,6 +22,15 @@ public class Demo {
 //                .stream(scanner.nextLine().split(" "))
 //                .mapToInt(e -> Integer.parseInt(e))
 //                .toArray();
+//
+//        for (int item : numbersArr) {
+//            System.out.println(item);
+//        }
+
+        int[] numbers = { 1, 2, 3, 4, 5 };
+        for (int number : numbers) {
+            System.out.println(number + " ");
+        }
 
     }
 }
