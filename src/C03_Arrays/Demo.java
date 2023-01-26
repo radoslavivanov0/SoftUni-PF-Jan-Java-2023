@@ -27,10 +27,15 @@ public class Demo {
 //            System.out.println(item);
 //        }
 
-        int[] numbers = { 1, 2, 3, 4, 5 };
-        for (int number : numbers) {
-            System.out.println(number + " ");
-        }
+//        int[] numbers = { 1, 2, 3, 4, 5 };
+//        for (int number : numbers) {
+//            System.out.println(number + " ");
+//        }
+
+        double[] numbersArr = Arrays
+                .stream(scanner.nextLine().split(" "))
+                .mapToDouble(e -> Double.parseDouble(e))
+                .toArray();
 
     }
 }
