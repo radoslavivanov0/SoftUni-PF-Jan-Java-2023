@@ -1,9 +1,9 @@
-package C04_Methods;
+package C04_Methods.Lab;
 
 import java.util.Scanner;
 
 public class EX04_Calculations {
-    public static void main() {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String command = scanner.nextLine();
         int a = Integer.parseInt(scanner.nextLine());

@@ -5,14 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b06f71-1a34-4078-8e90-40aa75703927" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/Exercise/EX03_ZigZagArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/Exercise/EX04_ArrayRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/Exercise/EX05_TopIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C04_Methods/EX01_SignOfIntegerNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C04_Methods/EX02_Grades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C04_Methods/EX03_PrintingTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C04_Methods/EX04_Calculations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/Exercise/EX06_EqualSums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/Exercise/EX07_MaxSequenceOfEqualElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/Exercise/EX08_MagicSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/Exercise/EX09_ArrayModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/Exercise/EX10_TreasureHunt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/MoreExercise/EX01_EncryptSortAndPrintArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/MoreExercise/EX02_PascalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/MoreExercise/EX03_RecursiveFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/MoreExercise/EX04_LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/MoreExercise/EX05_KaminoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C03_Arrays/MoreExercise/EX06_LadyBugs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Exercise/EX01_SmallestOfThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Exercise/EX02_VowelsCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Lab/EX05_Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Lab/EX06_CalculateRectangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Lab/EX07_RepeatString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Lab/EX08_MathPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Lab/EX09_GreaterOfTwoValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Lab/EX10_MultiplyEvensByOdds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Lab/EX11_MathOperations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C03_Arrays/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C03_Arrays/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C03_Arrays/Exercise/EX04_ArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C03_Arrays/Exercise/EX04_ArrayRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C04_Methods/EX01_SignOfIntegerNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C04_Methods/Lab/EX01_SignOfIntegerNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C04_Methods/EX02_Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C04_Methods/Lab/EX02_Grades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C04_Methods/EX03_PrintingTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C04_Methods/Lab/EX03_PrintingTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C04_Methods/EX04_Calculations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C04_Methods/Lab/EX04_Calculations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +76,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EX03_PrintingTriangle">
-    <configuration name="EX01_SignOfIntegerNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C04_Methods.EX01_SignOfIntegerNumbers" />
+  <component name="RunManager" selected="Application.EX06_LadyBugs">
+    <configuration name="EX02_PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C03_Arrays.MoreExercise.EX02_PascalTriangle" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C04_Methods.*" />
+          <option name="PATTERN" value="C03_Arrays.MoreExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX02_Grades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C04_Methods.EX02_Grades" />
+    <configuration name="EX03_RecursiveFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C03_Arrays.MoreExercise.EX03_RecursiveFibonacci" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C04_Methods.*" />
+          <option name="PATTERN" value="C03_Arrays.MoreExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX03_PrintingTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C04_Methods.EX03_PrintingTriangle" />
+    <configuration name="EX04_LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C03_Arrays.MoreExercise.EX04_LongestIncreasingSubsequence" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C04_Methods.*" />
+          <option name="PATTERN" value="C03_Arrays.MoreExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX04_ArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C03_Arrays.Exercise.EX04_ArrayRotation" />
+    <configuration name="EX05_KaminoFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C03_Arrays.MoreExercise.EX05_KaminoFactory" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C03_Arrays.Exercise.*" />
+          <option name="PATTERN" value="C03_Arrays.MoreExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX05_TopIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C03_Arrays.Exercise.EX05_TopIntegers" />
+    <configuration name="EX06_LadyBugs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C03_Arrays.MoreExercise.EX06_LadyBugs" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C03_Arrays.Exercise.*" />
+          <option name="PATTERN" value="C03_Arrays.MoreExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EX03_PrintingTriangle" />
-        <item itemvalue="Application.EX02_Grades" />
-        <item itemvalue="Application.EX01_SignOfIntegerNumbers" />
-        <item itemvalue="Application.EX05_TopIntegers" />
-        <item itemvalue="Application.EX04_ArrayRotation" />
+        <item itemvalue="Application.EX06_LadyBugs" />
+        <item itemvalue="Application.EX05_KaminoFactory" />
+        <item itemvalue="Application.EX04_LongestIncreasingSubsequence" />
+        <item itemvalue="Application.EX02_PascalTriangle" />
+        <item itemvalue="Application.EX03_RecursiveFibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +186,16 @@
       <workItem from="1674807331383" duration="1670000" />
       <workItem from="1674811399546" duration="843000" />
       <workItem from="1674812990231" duration="2104000" />
+      <workItem from="1674815130079" duration="2844000" />
+      <workItem from="1674830786353" duration="9277000" />
+      <workItem from="1674899967868" duration="945000" />
+      <workItem from="1674900933609" duration="1197000" />
+      <workItem from="1674902158043" duration="656000" />
+      <workItem from="1674902876861" duration="76000" />
+      <workItem from="1675084189674" duration="399000" />
+      <workItem from="1675093190676" duration="944000" />
+      <workItem from="1675102657764" duration="2543000" />
+      <workItem from="1675161623374" duration="10119000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1673388289465</created>
@@ -217,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674758102589</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1674815184448</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674815184448</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,19 +397,69 @@
           <line>13</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C03_Arrays/Exercise/EX04_ArrayRotation.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C03_Arrays/Exercise/EX07_MaxSequenceOfEqualElements.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C03_Arrays/Demo.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C03_Arrays/Exercise/EX10_TreasureHunt.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C04_Methods/Exercise/EX02_VowelsCount.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C03_Arrays/MoreExercise/EX02_PascalTriangle.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C03_Arrays/MoreExercise/EX05_KaminoFactory.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C03_Arrays/MoreExercise/EX05_KaminoFactory.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C03_Arrays/MoreExercise/EX06_LadyBugs.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C03_Arrays/MoreExercise/EX06_LadyBugs.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/C04_Methods/EX03_PrintingTriangle.java</url>
+          <url>file://$PROJECT_DIR$/src/C04_Methods/Lab/EX03_PrintingTriangle.java</url>
           <line>9</line>
-          <properties class="C04_Methods.EX03_PrintingTriangle" method="printLine">
+          <properties class="C04_Methods.Lab.EX03_PrintingTriangle" method="printLine">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/C04_Methods/EX03_PrintingTriangle.java</url>
+          <url>file://$PROJECT_DIR$/src/C04_Methods/Lab/EX03_PrintingTriangle.java</url>
           <line>15</line>
-          <properties class="C04_Methods.EX03_PrintingTriangle" method="printTriangle">
+          <properties class="C04_Methods.Lab.EX03_PrintingTriangle" method="printTriangle">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

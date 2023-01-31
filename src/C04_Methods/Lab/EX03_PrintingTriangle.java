@@ -1,4 +1,4 @@
-package C04_Methods;
+package C04_Methods.Lab;
 
 import java.util.Scanner;
 
