@@ -5,16 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b06f71-1a34-4078-8e90-40aa75703927" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Exercise/EX03_CharactersInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Exercise/EX04_PasswordValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Exercise/EX05_AddAndSubtract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Exercise/EX06_MiddleCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Exercise/EX07_NxNMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Exercise/EX08_FactorialDivision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Exercise/EX09_PalindromeIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C04_Methods/Exercise/EX10_TopNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C04_Methods/MoreExercise/EX01_DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C04_Methods/MoreExercise/EX02_CenterPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C04_Methods/MoreExercise/EX03_LongerLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C04_Methods/MoreExercise/EX04_TribonacciSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Exercise/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Exercise/EX01_Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Exercise/EX02_ChangeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Exercise/EX03_HouseParty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Exercise/EX04_ListOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Exercise/EX05_BombNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Exercise/EX06_CardsGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Exercise/EX07_AppendArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Exercise/EX08_AnonymousThreat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Exercise/EX09_PokemonDontGo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Exercise/EX10_SoftUniCoursePlanning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Lab/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Lab/EX01_SumAdjacentEqualNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Lab/EX02_GaussTrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Lab/EX03_MergingLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Lab/EX04_ListManipulationBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Lab/EX05_ListManipulationAdvanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Lab/EX06_ListOfProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/Lab/EX07_RemoveNegativesAndReverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C04_Methods/Exercise/EX02_VowelsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C04_Methods/Exercise/EX02_VowelsCount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +73,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EX10_TopNumber">
-    <configuration name="EX06_MiddleCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C04_Methods.Exercise.EX06_MiddleCharacters" />
+  <component name="RunManager" selected="Application.EX10_SoftUniCoursePlanning">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C05_Lists.Exercise.Demo" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C04_Methods.Exercise.*" />
+          <option name="PATTERN" value="C05_Lists.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX07_NxNMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C04_Methods.Exercise.EX07_NxNMatrix" />
+    <configuration name="EX06_CardsGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C05_Lists.Exercise.EX06_CardsGame" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C04_Methods.Exercise.*" />
+          <option name="PATTERN" value="C05_Lists.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX08_FactorialDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C04_Methods.Exercise.EX08_FactorialDivision" />
+    <configuration name="EX07_AppendArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C05_Lists.Exercise.EX07_AppendArrays" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C04_Methods.Exercise.*" />
+          <option name="PATTERN" value="C05_Lists.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX09_PalindromeIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C04_Methods.Exercise.EX09_PalindromeIntegers" />
+    <configuration name="EX08_AnonymousThreat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C05_Lists.Exercise.EX08_AnonymousThreat" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C04_Methods.Exercise.*" />
+          <option name="PATTERN" value="C05_Lists.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX10_TopNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C04_Methods.Exercise.EX10_TopNumber" />
+    <configuration name="EX10_SoftUniCoursePlanning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C05_Lists.Exercise.EX10_SoftUniCoursePlanning" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C04_Methods.Exercise.*" />
+          <option name="PATTERN" value="C05_Lists.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EX10_TopNumber" />
-        <item itemvalue="Application.EX09_PalindromeIntegers" />
-        <item itemvalue="Application.EX08_FactorialDivision" />
-        <item itemvalue="Application.EX07_NxNMatrix" />
-        <item itemvalue="Application.EX06_MiddleCharacters" />
+        <item itemvalue="Application.EX10_SoftUniCoursePlanning" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.EX08_AnonymousThreat" />
+        <item itemvalue="Application.EX07_AppendArrays" />
+        <item itemvalue="Application.EX06_CardsGame" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +195,13 @@
       <workItem from="1675161623374" duration="17124000" />
       <workItem from="1675180272283" duration="3529000" />
       <workItem from="1675519534645" duration="2000000" />
-      <workItem from="1675524669258" duration="6008000" />
+      <workItem from="1675524669258" duration="6122000" />
+      <workItem from="1675596137712" duration="12133000" />
+      <workItem from="1675878964885" duration="92000" />
+      <workItem from="1675948623393" duration="611000" />
+      <workItem from="1676054855336" duration="6379000" />
+      <workItem from="1676137861512" duration="15970000" />
+      <workItem from="1676185544250" duration="10946000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1673388289465</created>
@@ -246,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675172210020</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update">
+      <created>1675530790925</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675530790925</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,6 +491,51 @@
           <url>file://$PROJECT_DIR$/src/C04_Methods/Exercise/EX09_PalindromeIntegers.java</url>
           <line>18</line>
           <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C05_Lists/Lab/Demo.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C05_Lists/Lab/EX01_SumAdjacentEqualNumbers.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C05_Lists/Lab/EX03_MergingLists.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C05_Lists/Lab/EX05_ListManipulationAdvanced.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C05_Lists/Lab/EX05_ListManipulationAdvanced.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C05_Lists/Exercise/EX01_Train.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C05_Lists/Lab/EX04_ListManipulationBasics.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C05_Lists/Exercise/EX08_AnonymousThreat.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C05_Lists/Exercise/EX10_SoftUniCoursePlanning.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="146" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/C04_Methods/Lab/EX03_PrintingTriangle.java</url>
