@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b06f71-1a34-4078-8e90-40aa75703927" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MidExam/Preparation13Feb2023/EX01_CounterStrike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/Preparation13Feb2023/EX02_TreasureHunt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/Preparation13Feb2023/EX03_MemoryGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/Preparation15Feb2023/EX01_BlackFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/Preparation15Feb2023/EX02_TheLift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/Preparation15Feb2023/EX03_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExam02/EX01_SoftUniReception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExam02/EX02_ArrayModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExam02/EX03_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExam03Retake/EX01_CounterStrike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExam03Retake/EX02_ShootForTheWin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExam03Retake/EX03_MovingTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExam04/EX01_GuineaPig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExam04/EX02_ShoppingList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExam04/EX03_HeartDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExam05/EX01_BonusScoringSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExam05/EX02_MuOnline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExamRetake01/EX01_ComputerStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExamRetake01/EX02_TheLift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExamRetake01/EX03_MemoryGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C05_Lists/MoreExercise/EX01_Messaging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExam/MidExam_19Feb2023/EX01_TheBiscuitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExam/MidExam_19Feb2023/EX02_TaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExam/MidExam_19Feb2023/EX03_ChatLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExamRetake06/EX03_ManOWar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExam/Preparation13Feb2023/EX03_MemoryGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MidExam/Preparation13Feb2023/EX03_MemoryGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExam/PreparationMidExamRetake01/EX03_MemoryGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExamRetake01/EX03_MemoryGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +57,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EX03_MovingTarget">
-    <configuration name="EX01_CounterStrike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExam.PreparationMidExam03Retake.EX01_CounterStrike" />
+  <component name="RunManager" selected="Application.EX02_TaxCalculator">
+    <configuration name="EX01_Messaging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C05_Lists.MoreExercise.EX01_Messaging" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExam.PreparationMidExam03Retake.*" />
+          <option name="PATTERN" value="C05_Lists.MoreExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX02_ShootForTheWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExam.PreparationMidExam03Retake.EX02_ShootForTheWin" />
+    <configuration name="EX01_TheBiscuitFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExam.MidExam_19Feb2023.EX01_TheBiscuitFactory" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExam.PreparationMidExam03Retake.*" />
+          <option name="PATTERN" value="MidExam.MidExam_19Feb2023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX02_TheLift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExam.Preparation15Feb2023.EX02_TheLift" />
+    <configuration name="EX02_TaxCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExam.MidExam_19Feb2023.EX02_TaxCalculator" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExam.Preparation15Feb2023.*" />
+          <option name="PATTERN" value="MidExam.MidExam_19Feb2023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX03_MemoryGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExam.PreparationMidExamRetake01.EX03_MemoryGame" />
+    <configuration name="EX03_ChatLogger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExam.MidExam_19Feb2023.EX03_ChatLogger" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExam.PreparationMidExamRetake01.*" />
+          <option name="PATTERN" value="MidExam.MidExam_19Feb2023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX03_MovingTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExam.PreparationMidExam03Retake.EX03_MovingTarget" />
+    <configuration name="MidExam.Preparation13Feb2023.EX03_MemoryGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExam.Preparation13Feb2023.EX03_MemoryGame" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExam.PreparationMidExam03Retake.*" />
+          <option name="PATTERN" value="MidExam.Preparation13Feb2023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EX03_MovingTarget" />
-        <item itemvalue="Application.EX02_ShootForTheWin" />
-        <item itemvalue="Application.EX01_CounterStrike" />
-        <item itemvalue="Application.EX03_MemoryGame" />
-        <item itemvalue="Application.EX02_TheLift" />
+        <item itemvalue="Application.EX02_TaxCalculator" />
+        <item itemvalue="Application.EX03_ChatLogger" />
+        <item itemvalue="Application.EX01_TheBiscuitFactory" />
+        <item itemvalue="Application.EX01_Messaging" />
+        <item itemvalue="Application.MidExam.Preparation13Feb2023.EX03_MemoryGame" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +196,9 @@
       <workItem from="1676320146341" duration="2298000" />
       <workItem from="1676322477655" duration="2849000" />
       <workItem from="1676325657245" duration="445000" />
-      <workItem from="1676404996716" duration="5623000" />
+      <workItem from="1676404996716" duration="10754000" />
+      <workItem from="1676570911705" duration="2644000" />
+      <workItem from="1676789635212" duration="11788000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1673388289465</created>
@@ -289,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676196870618</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <created>1676410777364</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676410777364</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +550,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MidExam/Preparation13Feb2023/EX03_MemoryGame.java</url>
-          <line>14</line>
+          <line>15</line>
           <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -640,8 +635,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MidExam/PreparationMidExam03Retake/EX03_MovingTarget.java</url>
-          <line>47</line>
+          <line>50</line>
           <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExam/PreparationMidExamRetake06/EX03_ManOWar.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C05_Lists/MoreExercise/EX01_Messaging.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C05_Lists/MoreExercise/EX01_Messaging.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="212" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/C04_Methods/Lab/EX03_PrintingTriangle.java</url>

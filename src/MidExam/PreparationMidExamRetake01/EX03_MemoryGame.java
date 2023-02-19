@@ -26,7 +26,7 @@ public class EX03_MemoryGame {
                 String firstElement = elements.get(firstIndex);
                 String secondElement = elements.get(secondIndex);
                 if (firstElement.equals(secondElement)) {
-                    System.out.printf("Congrats! You have found matching elements -%s!%n", firstElement);
+                    System.out.printf("Congrats! You have found matching elements - %s!%n", firstElement);
                     elements.remove(firstElement);
                     elements.remove(secondElement);
                 } else {
