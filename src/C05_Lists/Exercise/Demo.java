@@ -33,8 +33,8 @@ public class Demo {
             } else if (currentCommand.equals("Swap")) {
                 String firstTitle = commandArr[1];
                 String secondTitle = commandArr[2];
-                boolean isExercised1 = courses.contains(firstTitle+"-Exercise");
-                boolean isExercised2 = courses.contains(secondTitle+"-Exercise");
+                boolean isExercised1 = courses.contains(firstTitle+"-C06_ObjectsAndClasses.Exercise");
+                boolean isExercised2 = courses.contains(secondTitle+"-C06_ObjectsAndClasses.Exercise");
                 int indexOfFirst = 0;
                 int indexOfSecond = 0;
                 if (courses.contains(firstTitle) && courses.contains(secondTitle)) {
@@ -48,12 +48,12 @@ public class Demo {
                     if (isExercised1){
                         courses.set(indexOfFirst, secondTitle);
                         courses.set(indexOfSecond, firstTitle);
-                        courses.add(indexOfSecond+1, firstTitle+"-Exercise");
+                        courses.add(indexOfSecond+1, firstTitle+"-C06_ObjectsAndClasses.Exercise");
                         courses.remove(indexOfFirst+2);
                     } else if (isExercised2){
                         courses.set(indexOfSecond, firstTitle);
                         courses.set(indexOfFirst, secondTitle);
-                        courses.add(indexOfFirst+1, secondTitle+"-Exercise");
+                        courses.add(indexOfFirst+1, secondTitle+"-C06_ObjectsAndClasses.Exercise");
                         courses.remove(indexOfSecond+2);
                     } else {
                         courses.set(indexOfSecond, firstTitle);
@@ -63,11 +63,11 @@ public class Demo {
                 }
             } else if (currentCommand.equals("Exercise")) {
                 String lessonTitle = commandArr[1];
-                String exercise = "-Exercise";
+                String exercise = "-C06_ObjectsAndClasses.Exercise";
                 if (!courses.contains(lessonTitle)) {
                     courses.add(lessonTitle);
                     courses.add(lessonTitle+exercise);
-                } else if (courses.contains(lessonTitle+"-Exercise")){
+                } else if (courses.contains(lessonTitle+"-C06_ObjectsAndClasses.Exercise")){
                     command = scanner.nextLine();
                     continue;
                 } else {

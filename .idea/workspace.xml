@@ -5,14 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b06f71-1a34-4078-8e90-40aa75703927" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/C05_Lists/MoreExercise/EX01_Messaging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/MidExam_19Feb2023/EX01_TheBiscuitFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/MidExam_19Feb2023/EX02_TaxCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/MidExam_19Feb2023/EX03_ChatLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExamRetake06/EX03_ManOWar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/EX03_OpinionPoll/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/EX03_OpinionPoll/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Lab/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Lab/EX01_RandomizeWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Lab/EX02_SumBigNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Lab/EX03_BigFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Lab/EX04_Songs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Lab/EX05_Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Lab/EX06_Students2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Notes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidExam/Preparation13Feb2023/EX03_MemoryGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MidExam/Preparation13Feb2023/EX03_MemoryGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidExam/PreparationMidExamRetake01/EX03_MemoryGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MidExam/PreparationMidExamRetake01/EX03_MemoryGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C05_Lists/Exercise/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C05_Lists/Exercise/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C05_Lists/Exercise/EX10_SoftUniCoursePlanning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C05_Lists/Exercise/EX10_SoftUniCoursePlanning.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +63,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EX02_TaxCalculator">
-    <configuration name="EX01_Messaging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C05_Lists.MoreExercise.EX01_Messaging" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C06_ObjectsAndClasses.Lab.Demo" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C05_Lists.MoreExercise.*" />
+          <option name="PATTERN" value="C06_ObjectsAndClasses.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX01_TheBiscuitFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExam.MidExam_19Feb2023.EX01_TheBiscuitFactory" />
+    <configuration name="EX04_Songs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C06_ObjectsAndClasses.Lab.EX04_Songs" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExam.MidExam_19Feb2023.*" />
+          <option name="PATTERN" value="C06_ObjectsAndClasses.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX02_TaxCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExam.MidExam_19Feb2023.EX02_TaxCalculator" />
+    <configuration name="EX05_Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C06_ObjectsAndClasses.Lab.EX05_Students" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExam.MidExam_19Feb2023.*" />
+          <option name="PATTERN" value="C06_ObjectsAndClasses.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX03_ChatLogger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExam.MidExam_19Feb2023.EX03_ChatLogger" />
+    <configuration name="EX06_Students2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C06_ObjectsAndClasses.Lab.EX06_Students2" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExam.MidExam_19Feb2023.*" />
+          <option name="PATTERN" value="C06_ObjectsAndClasses.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MidExam.Preparation13Feb2023.EX03_MemoryGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExam.Preparation13Feb2023.EX03_MemoryGame" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C06_ObjectsAndClasses.Exercise.EX03_OpinionPoll.Main" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExam.Preparation13Feb2023.*" />
+          <option name="PATTERN" value="C06_ObjectsAndClasses.Exercise.EX03_OpinionPoll.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EX02_TaxCalculator" />
-        <item itemvalue="Application.EX03_ChatLogger" />
-        <item itemvalue="Application.EX01_TheBiscuitFactory" />
-        <item itemvalue="Application.EX01_Messaging" />
-        <item itemvalue="Application.MidExam.Preparation13Feb2023.EX03_MemoryGame" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.EX06_Students2" />
+        <item itemvalue="Application.EX05_Students" />
+        <item itemvalue="Application.EX04_Songs" />
+        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +204,10 @@
       <workItem from="1676325657245" duration="445000" />
       <workItem from="1676404996716" duration="10754000" />
       <workItem from="1676570911705" duration="2644000" />
-      <workItem from="1676789635212" duration="11788000" />
+      <workItem from="1676789635212" duration="11881000" />
+      <workItem from="1677271546450" duration="175000" />
+      <workItem from="1677308644176" duration="5884000" />
+      <workItem from="1677314576110" duration="6262000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1673388289465</created>
@@ -284,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676410777364</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update">
+      <created>1676802981528</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676802981528</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,7 +551,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/C05_Lists/Exercise/EX10_SoftUniCoursePlanning.java</url>
-          <line>13</line>
+          <line>12</line>
           <option name="timeStamp" value="149" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -652,6 +668,21 @@
           <url>file://$PROJECT_DIR$/src/C05_Lists/MoreExercise/EX01_Messaging.java</url>
           <line>20</line>
           <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C06_ObjectsAndClasses/Lab/EX03_BigFactorial.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C06_ObjectsAndClasses/Lab/EX06_Students2.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/EX03_OpinionPoll/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="221" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/C04_Methods/Lab/EX03_PrintingTriangle.java</url>

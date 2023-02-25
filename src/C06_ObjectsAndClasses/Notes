@@ -1,0 +1,6 @@
+Objects and Classes
+
+Class:
+1) fields -> characteristics (e.g. name, age of a person)
+2) constructor -> method by which we create objects from the class
+3) methods -> actions

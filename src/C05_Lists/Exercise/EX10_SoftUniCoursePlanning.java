@@ -1,7 +1,6 @@
 package C05_Lists.Exercise;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
@@ -33,8 +32,8 @@ public class EX10_SoftUniCoursePlanning {
             } else if (currentCommand.contains("Swap")) {
                 String lessonTitle1 = commandParts[1];
                 String lessonTitle2 = commandParts[2];
-                boolean isExercised1 = courses.contains(lessonTitle1+"-Exercise");
-                boolean isExercised2 = courses.contains(lessonTitle2+"-Exercise");
+                boolean isExercised1 = courses.contains(lessonTitle1+"-C06_ObjectsAndClasses.Exercise");
+                boolean isExercised2 = courses.contains(lessonTitle2+"-C06_ObjectsAndClasses.Exercise");
                 int indexOfFirst = 0;
                 int indexOfSecond = 0;
                 if (courses.contains(lessonTitle1) && courses.contains(lessonTitle2)) {
@@ -48,12 +47,12 @@ public class EX10_SoftUniCoursePlanning {
                     if (isExercised1) {
                         courses.set(indexOfFirst, lessonTitle2);
                         courses.set(indexOfSecond, lessonTitle1);
-                        courses.add(indexOfSecond+1, lessonTitle1+"-Exercise");
+                        courses.add(indexOfSecond+1, lessonTitle1+"-C06_ObjectsAndClasses.Exercise");
                         courses.remove(indexOfFirst+2);
                     } else if (isExercised2) {
                         courses.set(indexOfSecond, lessonTitle1);
                         courses.set(indexOfFirst, lessonTitle2);
-                        courses.add(indexOfFirst+1, lessonTitle2+"-Exercise");
+                        courses.add(indexOfFirst+1, lessonTitle2+"-C06_ObjectsAndClasses.Exercise");
                         courses.remove(indexOfSecond+2);
                     } else {
                         courses.set(indexOfSecond, lessonTitle1);
@@ -62,7 +61,7 @@ public class EX10_SoftUniCoursePlanning {
                 }
             } else if (currentCommand.contains("Exercise")) {
                 String lessonTitle = commandParts[1];
-                String exercise = "-Exercise";
+                String exercise = "-C06_ObjectsAndClasses.Exercise";
                 if (!courses.contains(lessonTitle)) {
                     courses.add(lessonTitle);
                     courses.add(lessonTitle+exercise);
