@@ -5,38 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b06f71-1a34-4078-8e90-40aa75703927" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/EX01_AdvertisementMessage/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/EX01_AdvertisementMessage/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/EX02_Articles/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/EX02_Articles/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/EX04_Students/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/EX04_Students/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/EX05_VehicleCatalogue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/EX05_VehicleCatalogue/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/EX06_OrderByAge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/EX06_OrderByAge/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/EX07_groomingSalon/GroomingSalon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/EX07_groomingSalon/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/Exercise/EX07_groomingSalon/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/MoreExercise/EX01_CompanyRoster/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/MoreExercise/EX01_CompanyRoster/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C06_ObjectsAndClasses/MoreExercise/EX01_CompanyRoster/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX01_CountCharsInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX02_AMinerTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX03_Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX04_SoftUniParking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX05_Courses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX06_StudentAcademy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX07_LegendaryFarming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX08_CompanyUsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX09_ForceBook_Optional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX10_SoftUniExamResults_Optional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/EX01_CountRealNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/EX02_WordSynonyms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/EX03_OddOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/EX04_WordFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX01_CountCharsInAString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX01_CountCharsInAString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX02_AMinerTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX02_AMinerTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX03_Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX03_Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX04_SoftUniParking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX04_SoftUniParking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX05_Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX05_Courses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX06_StudentAcademy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX06_StudentAcademy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX07_LegendaryFarming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX07_LegendaryFarming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX08_CompanyUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX08_CompanyUsers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX09_ForceBook_Optional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX09_ForceBook_Optional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX10_SoftUniExamResults_Optional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX10_SoftUniExamResults_Optional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Lab/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/EX01_CountRealNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Lab/EX01_CountRealNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/EX02_WordSynonyms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Lab/EX02_WordSynonyms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/EX03_OddOccurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Lab/EX03_OddOccurrences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/EX04_WordFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Lab/EX04_WordFilter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,13 +72,13 @@
       <recent name="C:\Users\rados\IdeaProjects\SoftUni-PF-Jan-Java-2023\src\C06_ObjectsAndClasses\Exercise\EX07_GroomingSalon" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX04_WordFilter">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays.Lab.Demo" />
+  <component name="RunManager" selected="Application.EX10_SoftUniExamResults_Optional">
+    <configuration name="EX06_StudentAcademy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays_Maps.Exercise.EX06_StudentAcademy" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C07_AssociativeArrays.Lab.*" />
+          <option name="PATTERN" value="C07_AssociativeArrays_Maps.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX01_CountRealNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays.Lab.EX01_CountRealNumbers" />
+    <configuration name="EX07_LegendaryFarming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays_Maps.Exercise.EX07_LegendaryFarming" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C07_AssociativeArrays.Lab.*" />
+          <option name="PATTERN" value="C07_AssociativeArrays_Maps.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX02_WordSynonyms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays.Lab.EX02_WordSynonyms" />
+    <configuration name="EX08_CompanyUsers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays_Maps.Exercise.EX08_CompanyUsers" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C07_AssociativeArrays.Lab.*" />
+          <option name="PATTERN" value="C07_AssociativeArrays_Maps.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX03_OddOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays.Lab.EX03_OddOccurrences" />
+    <configuration name="EX09_ForceBook_Optional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays_Maps.Exercise.EX09_ForceBook_Optional" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C07_AssociativeArrays.Lab.*" />
+          <option name="PATTERN" value="C07_AssociativeArrays_Maps.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX04_WordFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays.Lab.EX04_WordFilter" />
+    <configuration name="EX10_SoftUniExamResults_Optional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays_Maps.Exercise.EX10_SoftUniExamResults_Optional" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C07_AssociativeArrays.Lab.*" />
+          <option name="PATTERN" value="C07_AssociativeArrays_Maps.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EX04_WordFilter" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.EX03_OddOccurrences" />
-        <item itemvalue="Application.EX02_WordSynonyms" />
-        <item itemvalue="Application.EX01_CountRealNumbers" />
+        <item itemvalue="Application.EX10_SoftUniExamResults_Optional" />
+        <item itemvalue="Application.EX09_ForceBook_Optional" />
+        <item itemvalue="Application.EX08_CompanyUsers" />
+        <item itemvalue="Application.EX07_LegendaryFarming" />
+        <item itemvalue="Application.EX06_StudentAcademy" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +220,8 @@
       <workItem from="1677326891498" duration="515000" />
       <workItem from="1677327419878" duration="9716000" />
       <workItem from="1677342155206" duration="1169000" />
-      <workItem from="1678028607333" duration="11243000" />
+      <workItem from="1678028607333" duration="11316000" />
+      <workItem from="1678111897725" duration="14224000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1673388289465</created>
@@ -335,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677321143865</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update">
+      <created>1678042100003</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678042100003</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -720,14 +713,34 @@
           <option name="timeStamp" value="226" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/EX01_CountRealNumbers.java</url>
+          <url>file://$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Lab/EX01_CountRealNumbers.java</url>
           <line>15</line>
           <option name="timeStamp" value="234" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/EX02_WordSynonyms.java</url>
+          <url>file://$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Lab/EX02_WordSynonyms.java</url>
           <line>11</line>
           <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX02_AMinerTask.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX03_Orders.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX05_Courses.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX07_LegendaryFarming.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="241" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/C04_Methods/Lab/EX03_PrintingTriangle.java</url>

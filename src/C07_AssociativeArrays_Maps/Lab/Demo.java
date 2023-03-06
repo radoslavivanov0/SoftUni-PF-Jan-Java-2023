@@ -1,6 +1,4 @@
-package C07_AssociativeArrays.Lab;
-
-import java.util.*;
+package C07_AssociativeArrays_Maps.Lab;
 
 public class Demo {
     public static void main(String[] args) {

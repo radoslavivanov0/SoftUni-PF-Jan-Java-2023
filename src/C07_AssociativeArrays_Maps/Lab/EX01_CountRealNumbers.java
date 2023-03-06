@@ -1,4 +1,4 @@
-package C07_AssociativeArrays.Lab;
+package C07_AssociativeArrays_Maps.Lab;
 
 import java.text.DecimalFormat;
 import java.util.Arrays;
