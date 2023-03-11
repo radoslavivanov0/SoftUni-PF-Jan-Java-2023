@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b06f71-1a34-4078-8e90-40aa75703927" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX01_CountCharsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/MoreExercise/EX01_Ranking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/MoreExercise/EX02_Judge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C08_TextProcessing/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX01_CountCharsInAString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX02_AMinerTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX02_AMinerTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX03_Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX03_Orders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX04_SoftUniParking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX04_SoftUniParking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX05_Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX05_Courses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX06_StudentAcademy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX06_StudentAcademy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX07_LegendaryFarming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX07_LegendaryFarming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX08_CompanyUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX08_CompanyUsers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX09_ForceBook_Optional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX09_ForceBook_Optional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Exercise/EX10_SoftUniExamResults_Optional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX10_SoftUniExamResults_Optional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Lab/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/EX01_CountRealNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Lab/EX01_CountRealNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/EX02_WordSynonyms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Lab/EX02_WordSynonyms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/EX03_OddOccurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Lab/EX03_OddOccurrences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C07_AssociativeArrays/Lab/EX04_WordFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Lab/EX04_WordFilter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +59,13 @@
       <recent name="C:\Users\rados\IdeaProjects\SoftUni-PF-Jan-Java-2023\src\C06_ObjectsAndClasses\Exercise\EX07_GroomingSalon" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX10_SoftUniExamResults_Optional">
-    <configuration name="EX06_StudentAcademy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays_Maps.Exercise.EX06_StudentAcademy" />
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C08_TextProcessing.Demo" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C07_AssociativeArrays_Maps.Exercise.*" />
+          <option name="PATTERN" value="C08_TextProcessing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX07_LegendaryFarming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays_Maps.Exercise.EX07_LegendaryFarming" />
+    <configuration name="EX01_Ranking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays_Maps.MoreExercise.EX01_Ranking" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C07_AssociativeArrays_Maps.Exercise.*" />
+          <option name="PATTERN" value="C07_AssociativeArrays_Maps.MoreExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.EX01_Ranking" />
         <item itemvalue="Application.EX10_SoftUniExamResults_Optional" />
         <item itemvalue="Application.EX09_ForceBook_Optional" />
         <item itemvalue="Application.EX08_CompanyUsers" />
-        <item itemvalue="Application.EX07_LegendaryFarming" />
-        <item itemvalue="Application.EX06_StudentAcademy" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +208,10 @@
       <workItem from="1677327419878" duration="9716000" />
       <workItem from="1677342155206" duration="1169000" />
       <workItem from="1678028607333" duration="11316000" />
-      <workItem from="1678111897725" duration="14224000" />
+      <workItem from="1678111897725" duration="14333000" />
+      <workItem from="1678170460946" duration="2632000" />
+      <workItem from="1678430118889" duration="253000" />
+      <workItem from="1678430418728" duration="1539000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1673388289465</created>
@@ -328,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678042100003</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="update">
+      <created>1678141986983</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1678141986983</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -741,6 +738,16 @@
           <url>file://$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/Exercise/EX07_LegendaryFarming.java</url>
           <line>15</line>
           <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/MoreExercise/EX01_Ranking.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/MoreExercise/EX01_Ranking.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="246" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/C04_Methods/Lab/EX03_PrintingTriangle.java</url>
