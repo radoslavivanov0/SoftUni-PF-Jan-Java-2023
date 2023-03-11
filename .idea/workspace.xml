@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37b06f71-1a34-4078-8e90-40aa75703927" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/MoreExercise/EX01_Ranking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/MoreExercise/EX02_Judge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C08_TextProcessing/Demo.java" afterDir="false" />
+    <list default="true" id="37b06f71-1a34-4078-8e90-40aa75703927" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/C08_TextProcessing/Lab/EX01_ReverseStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C08_TextProcessing/Lab/EX02_RepeatStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C08_TextProcessing/Lab/EX03_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C08_TextProcessing/Lab/EX04_TextFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C08_TextProcessing/Lab/EX05_DigitsLettersAndOther.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C08_TextProcessing/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C08_TextProcessing/Demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,7 @@
       <recent name="C:\Users\rados\IdeaProjects\SoftUni-PF-Jan-Java-2023\src\C06_ObjectsAndClasses\Exercise\EX07_GroomingSalon" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.EX05_DigitsLettersAndOther">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C08_TextProcessing.Demo" />
       <module name="SoftUni-PF-Jan-Java-2023" />
@@ -73,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX01_Ranking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays_Maps.MoreExercise.EX01_Ranking" />
+    <configuration name="EX02_RepeatStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C08_TextProcessing.Lab.EX02_RepeatStrings" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C07_AssociativeArrays_Maps.MoreExercise.*" />
+          <option name="PATTERN" value="C08_TextProcessing.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX08_CompanyUsers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays_Maps.Exercise.EX08_CompanyUsers" />
+    <configuration name="EX03_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C08_TextProcessing.Lab.EX03_Substring" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C07_AssociativeArrays_Maps.Exercise.*" />
+          <option name="PATTERN" value="C08_TextProcessing.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX09_ForceBook_Optional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays_Maps.Exercise.EX09_ForceBook_Optional" />
+    <configuration name="EX04_TextFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C08_TextProcessing.Lab.EX04_TextFilter" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C07_AssociativeArrays_Maps.Exercise.*" />
+          <option name="PATTERN" value="C08_TextProcessing.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX10_SoftUniExamResults_Optional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C07_AssociativeArrays_Maps.Exercise.EX10_SoftUniExamResults_Optional" />
+    <configuration name="EX05_DigitsLettersAndOther" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C08_TextProcessing.Lab.EX05_DigitsLettersAndOther" />
       <module name="SoftUni-PF-Jan-Java-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C07_AssociativeArrays_Maps.Exercise.*" />
+          <option name="PATTERN" value="C08_TextProcessing.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX05_DigitsLettersAndOther" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.EX01_Ranking" />
-        <item itemvalue="Application.EX10_SoftUniExamResults_Optional" />
-        <item itemvalue="Application.EX09_ForceBook_Optional" />
-        <item itemvalue="Application.EX08_CompanyUsers" />
+        <item itemvalue="Application.EX04_TextFilter" />
+        <item itemvalue="Application.EX03_Substring" />
+        <item itemvalue="Application.EX02_RepeatStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +215,12 @@
       <workItem from="1678170460946" duration="2632000" />
       <workItem from="1678430118889" duration="253000" />
       <workItem from="1678430418728" duration="1539000" />
+      <workItem from="1678533494960" duration="49000" />
+      <workItem from="1678533587857" duration="599000" />
+      <workItem from="1678547797813" duration="72000" />
+      <workItem from="1678547871157" duration="25000" />
+      <workItem from="1678547907923" duration="91000" />
+      <workItem from="1678548010749" duration="7859000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1673388289465</created>
@@ -325,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678141986983</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update">
+      <created>1678533516223</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1678533516223</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -748,6 +764,21 @@
           <url>file://$PROJECT_DIR$/src/C07_AssociativeArrays_Maps/MoreExercise/EX01_Ranking.java</url>
           <line>20</line>
           <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C08_TextProcessing/Lab/EX01_ReverseStrings.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C08_TextProcessing/Lab/EX04_TextFilter.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/C08_TextProcessing/Lab/EX04_TextFilter.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="252" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/C04_Methods/Lab/EX03_PrintingTriangle.java</url>
